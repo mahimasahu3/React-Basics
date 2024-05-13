@@ -46,7 +46,7 @@ function App() {
       </div> 
       <form> 
         <p ref={resultRef}> 
-          {result} 
+          {result}
         </p> 
         <input
           pattern="[0-9]" 
